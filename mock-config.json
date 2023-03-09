@@ -1,0 +1,117 @@
+{
+    "welcomeMessage": "welcome Test User 1",
+    "menuTop": [
+        {
+            "label": "dashboard"
+        },
+        {
+            "label": "Unit 1",
+            "child": [
+                {
+                    "label": "2021",
+                    "child": [
+                        {
+                            "label": "Unit 1 Inspection Workflow"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Unit 2",
+            "child": [
+                {
+                    "label": "2019",
+                    "child": [
+                        {
+                            "label": "Unit 2 Inspection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Unit 2 - 2023"
+        },
+        {
+            "label": "Unit 3"
+        },
+        {
+            "label": "Unit 4"
+        },
+        {
+            "label": "Unit 5"
+        },
+        {
+            "label": "Projects"
+        },
+        {
+            "label": "Maintenance",
+            "child": [
+                {
+                    "label": "2023",
+                    "child": [
+                        {
+                            "label": "Unit 1 Maintenance - 2023"
+                        },
+                        {
+                            "label": "Unit 2 Maintenance -2023"
+                        },
+                        {
+                            "label": "Unit 3 Maintenance - 2023"
+                        },
+                        {
+                            "label": "Unit 4 Maintenance - 2023"
+                        },
+                        {
+                            "label": "Unit 5 Maintenance - 2023"
+                        },
+                        {
+                            "label": "Unit 6 Maintenance - 2023"
+                        },
+                        {
+                            "label": "BOPA Maintenance - 2023"
+                        }
+                    ]
+                },
+                {
+                    "label": "2022",
+                    "child": [
+                        {
+                            "label": "Unit 1 Maintenance"
+                        },
+                        {
+                            "label": "Unit 2 Maintenance"
+                        },
+                        {
+                            "label": "Unit 3 Maintenance"
+                        },
+                        {
+                            "label": "Unit 4 Maintenance"
+                        },
+                        {
+                            "label": "Unit 5 Maintenance"
+                        },
+                        {
+                            "label": "Unit 6 Maintenance"
+                        },
+                        {
+                            "label": "BOPA Maintenance"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "import eviFiles"
+        }
+    ],
+    "menuBottom": [
+        {
+            "label": "users"
+        },
+        {
+            "label": "email support"
+        }
+    ]
+}
